@@ -11578,7 +11578,7 @@ msgstr "разрешить обновление ссылки HEAD"
 
 #: builtin/fetch.c:143 builtin/fetch.c:149 builtin/pull.c:226
 msgid "deepen history of shallow clone"
-msgstr "улугубить историю частичного клона"
+msgstr "углубить историю частичного клона"
 
 #: builtin/fetch.c:145
 msgid "deepen history of shallow repository based on time"
